@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EX09 Data Analysis
+title: EX09COMP110
 email: leaspin@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a sample description for my analysis. 
@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "-EX09COMP110" # the subpath of your site, e.g. /blog
-url: "Leaspin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Leaspin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
